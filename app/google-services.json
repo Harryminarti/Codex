@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750538046973",
+    "project_id": "codex-8325a",
+    "storage_bucket": "codex-8325a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750538046973:android:b1bce055c3478a93f26d94",
+        "android_client_info": {
+          "package_name": "com.example.codex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdFwo5J9F5KxZy4DoNqK2A2nQ54Tc1LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
